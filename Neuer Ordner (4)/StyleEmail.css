@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    color: #081b29;
+    color: #bc13fe;
+}
+
+.homeEmail {
+    height: 100vh;
+    background: #081b29;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.home-Email-content {
+    max-width:  600px;
+}
+
+.home-Email-content p {
+    font-size: 16px;
+    margin: 20px 0 40px;
+}
